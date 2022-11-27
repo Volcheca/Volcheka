@@ -1,0 +1,344 @@
+.container {
+height: 3100px;
+width: 1220px;
+}
+
+.exit {
+position: absolute;
+top: 10px;    
+}
+
+.text {
+position: relative;
+margin-top: 11px;
+padding-left: 580px;
+font-size: 35px;
+font-size: 35px;    
+}
+
+.header-line {
+background-image: url(../img/Line%203.png);
+position: absolute;
+ width: 1230px;
+ height: 5px;
+ left: 0px;
+ top: 60px;
+}
+
+        /* Чиабатта*/
+.chabata {
+position: absolute;
+padding-top: 40px;
+padding-left: 15px;
+}
+
+.text-chabata {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 25px;
+padding-left: 796px;
+
+}
+
+.sub-text-chabata {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+line-height: 30px;
+letter-spacing: 0em;
+padding-top: 56px;
+padding-left: 400px;
+padding-right: 15px;
+}
+
+.cost-chabata {
+position: absolute;
+font-size: 25px;
+font-weight: 500;
+padding-top: 266px;
+padding-left: 408px;
+}
+
+.calories-chabata {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 266px;
+padding-left: 808px;
+}
+
+        /*Рижский хлеб*/
+.text-rishskiy-hleb {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 325px; 
+padding-left: 776px;
+}
+
+.rishskiy-hleb {
+position: absolute;
+top: 380px;
+padding-left: 15px;
+}
+
+.sub-text-rishskiy-hleb {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 410px;
+padding-left: 400px;
+}
+
+.cost-rishskiy-hleb {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 600px;
+padding-left: 408px;
+}
+
+.calories-rishskiy-hleb {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 600px;
+padding-left: 808px;
+}
+
+           /*Хала*/
+.text-hala {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 625px; 
+padding-left: 800px;
+}
+
+.hala {
+position: absolute;
+top: 680px;
+padding-left: 15px;
+}
+
+.sub-text-hala {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 710px;
+padding-left: 400px;
+}
+
+.cost-hala {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 1090px;
+padding-left: 400px;
+}
+
+.calories-hala {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 1090px;
+padding-left: 808px;
+}
+
+       /*Улитка с мясом*/
+.text-ulitka-maso {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 1090px; 
+padding-left: 776px;
+}
+
+.ulitka-maso {
+position: absolute;
+top: 1140px;
+padding-left: 15px;
+}
+
+.sub-text-ulitka-maso {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 1170px;
+padding-left: 400px;
+}
+
+.cost-ulitka-maso {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 1300px;
+padding-left: 400px;
+}
+
+.calories-ulitka-maso {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 1300px;
+padding-left: 808px;
+}
+ 
+  /*Улитка ветчина и сыр*/
+.text-ulitka-vetchina-sir {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 1400px; 
+padding-left: 756px;
+}
+
+.ulitka-vetchina-sir {
+position: absolute;
+top: 1460px;
+padding-left: 15px;
+}
+
+.sub-text-ulitka-vetchina-sir {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 1490px;
+padding-left: 400px;
+}
+
+.cost-ulitka-vetchina-sir {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 1895px;
+padding-left: 400px;
+}
+
+.calories-ulitka-vetchina-sir {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 1895px;
+padding-left: 808px;
+}
+
+/*Улитка с картофелем и грибами*/
+.text-ulitka-kartoska-gribi {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 1900px; 
+padding-left: 670px;
+}
+
+.ulitka-kartoska-gribi {
+position: absolute;
+padding-top: 1900px; 
+padding-left: 15px;
+}
+
+.sub-text-ulitka-kartoska-gribi {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 1940px; 
+padding-left: 400px;
+}
+
+.cost-ulitka-kartoska-gribi {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 2200px; 
+padding-left: 400px;
+}
+
+.calories-ulitka-kartoska-gribi {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 2200px; 
+padding-left: 808px;
+}
+
+     /*Сосиска в тесте*/
+.text-sosiska-testo {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 2250px; 
+padding-left: 710px;
+}
+
+.sosiska-testo {
+position: absolute;
+padding-top: 2250px; 
+padding-left: 15px;
+}
+
+.sub-text-sosiska-testo {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 2280px; 
+padding-left: 400px;
+}
+
+.cost-sosiska-testo {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 2750px; 
+padding-left: 400px;
+}
+
+.calories-sosiska-testo {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 2750px; 
+padding-left: 808px;
+}
+
+           /*Батон*/
+.text-baton {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 2800px; 
+padding-left: 808px;
+}
+
+.baton {
+position: absolute;
+padding-top: 2800px; 
+padding-left: 15px;
+}
+
+.sub-text-baton {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+padding-top: 2830px; 
+padding-left: 400px;
+}
+
+.cost-baton {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 3210px; 
+padding-left: 400px;
+}
+
+.calories-baton {
+position: absolute;
+font-size: 25px;
+font-weight: 400;
+top: 3210px; 
+padding-left: 808px;
+}
